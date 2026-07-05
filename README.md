@@ -1,4 +1,4 @@
-# Manga Scraper - Mundo dos Infinitos
+# ScrapingManga - Mundo dos Infinitos
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-Web%20Scraping-43B02A?logo=selenium&logoColor=white)
